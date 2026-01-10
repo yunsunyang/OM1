@@ -181,3 +181,7 @@ Please make sure to read the [Contributing Guide](./CONTRIBUTING.md) before maki
 ## License
 
 This project is licensed under the terms of the MIT License, which is a permissive free software license that allows users to freely use, modify, and distribute the software. The MIT License is a widely used and well-established license that is known for its simplicity and flexibility. By using the MIT License, this project aims to encourage collaboration, modification, and distribution of the software.
+
+## 中文社区反馈
+根据社区 X 推文（https://x.com/rtk17025/status/2009290169485283496），提交有价值的 PR 可获得一级开发者徽章。
+欢迎更多中文用户参与贡献，一起共建 OpenMind 项目！
