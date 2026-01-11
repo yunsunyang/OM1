@@ -124,3 +124,16 @@ If you have any questions or need help with the contribution process, feel free 
 *   Join our [developer telegram group](https://t.me/openminddev).
 
 Thank you for contributing to OM1!
+
+## 中文贡献指南 (Chinese Contribution Guide)
+
+根据中文社区 X 推文（https://x.com/rtk17025/status/2009290169485283496），提交有价值的 PR 可获得一级开发者徽章。
+
+贡献步骤：
+1. Fork 本仓库（点击 GitHub 页面右上角 Fork 按钮）。
+2. 克隆你的 fork 到本地：`git clone https://github.com/你的用户名/OM1.git`
+3. 修改代码或文档（例如，修复 bug、添加说明）。
+4. 提交变更：`git add .` → `git commit -m "你的改动描述"` → `git push origin main`
+5. 创建 PR：在你的 fork 页面点击 "Compare & pull request"，填写标题/描述，提交到 OpenMind/OM1。
+
+欢迎更多中文用户参与，一起共建 OpenMind 项目！如果 PR 被拒，根据反馈优化再提交。
