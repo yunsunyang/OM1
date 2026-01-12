@@ -185,3 +185,20 @@ This project is licensed under the terms of the MIT License, which is a permissi
 ## 中文社区反馈
 根据社区 X 推文（https://x.com/rtk17025/status/2009290169485283496），提交有价值的 PR 可获得一级开发者徽章。
 欢迎更多中文用户参与贡献，一起共建 OpenMind 项目！
+
+## 中文运行教程 (Chinese Running Guide)
+
+参考社区 X 推文（https://x.com/rtk17025/status/2009290169485283496），提交 PR 可获一级徽章。
+
+运行 Spot 模式：
+1. 配置 API Key：在 config/spot.json5 或 .env 填 OM_API_KEY。
+2. 运行：`uv run src/run.py spot`
+3. 浏览器打开 http://localhost:8000 查看模拟机器人。
+
+运行 Conversation 模式（拿徽章推荐）：
+`uv run src/run.py conversation`
+多说话互动，保持运行，状态变绿即徽章解锁！
+
+常见问题：
+- 麦克风不工作：Windows 设置 → 隐私 → 麦克风 → 允许 Ubuntu。
+- 挂机：用 screen -S om1 后台跑。
